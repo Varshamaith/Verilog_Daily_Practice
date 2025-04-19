@@ -1,6 +1,6 @@
 #  Daily Verilog Practice
 
-This repository contains my daily Verilog practice code as part of my learning journey in digital design and FPGA development.
+This repository contains my daily Verilog practice code as part of my learning journey in digital design.
 
 
 ## 📦 Tools Used
